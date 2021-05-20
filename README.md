@@ -36,3 +36,11 @@
 [discord]: https://discord.gg/QeFJDamKNS
 [instagram]: https://www.instagram.com/salihcokluk1/
 [youtube]: https://www.youtube.com/channel/UCPesEua5a0HJW_cXneJUuyg
+
+
+
+
+
+
+![Sayaç](https://profile-counter.glitch.me/cokluk/count.svg)
+
