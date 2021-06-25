@@ -30,12 +30,13 @@
 <br />
 <br />
 
-### Worked databases  :
+### Databases  :
 <img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/redis/redis.png" />
 <img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<br />
+<br />
  
-
 [discord]: https://discord.gg/QeFJDamKNS
 [instagram]: https://www.instagram.com/salihcokluk1/
 [youtube]: https://www.youtube.com/channel/UCPesEua5a0HJW_cXneJUuyg
