@@ -2,8 +2,7 @@
 ### Hello welcome to CoMaven
 
 [![Discord](https://img.shields.io/discord/811163975700971540?label=Discord&logo=Discord)][discord]
-
-## CoMaven Framework
+ 
 
 
 
