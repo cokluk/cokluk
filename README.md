@@ -37,9 +37,9 @@
 <br />
 <br />
  
-[discord]: https://discord.gg/QeFJDamKNS
+[discord]: https://discord.com/invite/X53Wk927sG
 [instagram]: https://www.instagram.com/salihcokluk1/
-[youtube]: https://www.youtube.com/channel/UCPesEua5a0HJW_cXneJUuyg
+[youtube]: https://www.youtube.com/channel/UCZS3pMNBGDsKWiUwUwFv6EQ
 
 
 
