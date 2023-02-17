@@ -1,7 +1,7 @@
 
 ### S4 LEVEL UP
 
-[![Discord](https://img.shields.io/discord/811163975700971540?label=Discord&logo=Discord)][discord]
+[![Discord](https://img.shields.io/discord/774651073746829332?label=Discord&logo=Discord)][discord]
  
 
 
