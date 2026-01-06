@@ -5,9 +5,6 @@
  
 
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=cokluk&show_icons=true&count_private=true)
-
 ### Contact:
  
 [<img align="left" alt="S 4 L E H#4119 | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
@@ -46,8 +43,8 @@
 <br />
 <br />
  
+ 
 
 
 
-![Sayaç](https://profile-counter.glitch.me/cokluk/count.svg)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=cokluk&show_icons=true&count_private=true)
