@@ -1,4 +1,1 @@
-
-### S4 LEVEL UP
-
-![Discord](https://img.shields.io/discord/774651073746829332?label=Discord&logo=Discord)
+not a dev, just lurking around. i dont ship code, i ship brainrot and curiosity
